@@ -1,0 +1,11 @@
+{
+  "itemGroup.quartzelv.quartz_elevator": "Elevador de Cuarzo",
+  "block.quartzelv.quartz_elevator": "Elevador de Cuarzo",
+  "block.quartzelv.smooth_quartz_elevator": "Elevador de Cuarzo Pulido",
+  "text.autoconfig.quartzelv.title": "Elevador de Cuarzo",
+  "text.autoconfig.quartzelv.option.quartzElevatorDistance": "Distancia Máxima del Elevador de Cuarzo",
+  "text.autoconfig.quartzelv.option.smoothQuartzElevatorDistance": "Distancia Máxima del Elevador de Cuarzo Pulido",
+  "text.autoconfig.quartzelv.option.mixTypes": "Moverse entre Diferentes Tipos de Elevadores",
+  "text.autoconfig.quartzelv.option.isPlayerOnly": "Solo Jugador",
+  "text.autoconfig.quartzelv.option.displayParticles": "Mostrar Partículas"
+}
